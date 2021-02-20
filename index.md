@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+### Sedentary Lifestles and Social Media
 
-You can use the [editor on GitHub](https://github.com/mliang47/MisleadingSite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I have a PHD in winning games and I'm here to tell you about the dangers of playing Fortnite. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sedentary lifestyles are a major contributor to obseity as shown in studies like this [one](https://pubmed.ncbi.nlm.nih.gov/10593524/). It clearly follows that as Fortnite is a major driver for such behavior that its popularity directly correlates with why childhood obsesity is on the rise. I will conclude this short talk with a tangent on the dangers of other applications that are closely related to games, in this case social media such as TikTok. The attention grabbing videos that users are constantly bombarded with cause kids to constantly context switch while they attempt to work on tasks that require their full concentration, such as writing an essay. The non-stop gratification is merely another attempt by businesses to control facets of a persons life. Uninstalling TikTok will not only decrease your weight but also increase your average assignemnt grade by a couple of basis points. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mliang47/MisleadingSite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**This website is written as a joke. **
+
+
