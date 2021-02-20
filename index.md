@@ -57,6 +57,6 @@ Sedentary lifestyles are a major contributor to obseity as shown in studies like
 
 
 
-**This website is written as a joke. **
+**This website is written as a joke.**
 
 
